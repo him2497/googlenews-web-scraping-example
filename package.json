@@ -1,0 +1,25 @@
+{
+  "name": "googlenews-web-scraping-example",
+  "version": "1.0.0",
+  "description": "A web scraping example",
+  "main": "scraper.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "readline-sync": "^1.4.9",
+    "request": "^2.85.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/him2497/googlenews-web-scraping-example.git"
+  },
+  "author": "Himanshu Mehta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/him2497/googlenews-web-scraping-example/issues"
+  },
+  "homepage": "https://github.com/him2497/googlenews-web-scraping-example#readme"
+}
