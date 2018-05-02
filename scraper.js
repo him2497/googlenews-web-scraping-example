@@ -1,4 +1,3 @@
-let express = require('express')
 let request = require('request')
 let cheerio = require('cheerio')
 let readLine = require('readline-sync')
