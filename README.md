@@ -3,10 +3,11 @@ A simple command line example which shows how to web scrape data.
 
 
 ## Run 
-`
-npm i 
+```
+npm i
+
 node scaper.js
-`  
+```
 
 
 ## About
